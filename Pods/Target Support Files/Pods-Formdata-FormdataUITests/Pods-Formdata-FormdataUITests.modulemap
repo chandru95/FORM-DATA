@@ -1,0 +1,6 @@
+framework module Pods_Formdata_FormdataUITests {
+  umbrella header "Pods-Formdata-FormdataUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
